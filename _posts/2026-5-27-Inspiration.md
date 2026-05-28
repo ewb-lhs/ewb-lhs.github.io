@@ -14,4 +14,4 @@ title: Inspiration
 - elliottwball@gmail.com
 - 1ewball@seattleschools.org
 ---
-I have been interested in cars for as long as I can remember.
+I have been interested in cars for longer than I can remember.
